@@ -10,8 +10,40 @@
       "cost": 0,
       "services": [],
       "id": 1
+    },
+    {
+      "name": "projeto cascata",
+      "budget": "1299",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Projeto Luna",
+      "budget": "99999",
+      "category": {
+        "id": "3",
+        "name": "Desing"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "projeto ratata",
+      "budget": "12",
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
-    
   ],
   "categories": [
     {
