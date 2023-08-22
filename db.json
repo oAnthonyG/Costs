@@ -18,8 +18,21 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 200,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "eaea",
+          "id": "9887b806-12a8-4fa5-a9a1-9d83daca5b2b"
+        },
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "eaea",
+          "id": "9887b806-12a8-4fa5-a9a1-9d83daca5b2b"
+        }
+      ],
       "id": 2
     },
     {
@@ -29,8 +42,15 @@
         "id": "3",
         "name": "Desing"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 100,
+      "services": [
+        {
+          "cost": "100",
+          "name": "Trakay",
+          "description": "poassa iisso ai po",
+          "id": "f42f724a-2468-4725-94eb-f06e04660f20"
+        }
+      ],
       "id": 3
     },
     {
