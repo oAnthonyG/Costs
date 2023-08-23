@@ -18,7 +18,7 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 200,
+      "cost": 1820,
       "services": [
         {
           "name": "teste",
@@ -31,6 +31,24 @@
           "cost": "100",
           "description": "eaea",
           "id": "9887b806-12a8-4fa5-a9a1-9d83daca5b2b"
+        },
+        {
+          "name": "Para ele",
+          "cost": "1220",
+          "description": "tsese",
+          "id": "3906efbc-fd51-4167-a042-35fc256d8523"
+        },
+        {
+          "name": "Freela de front end",
+          "cost": "200",
+          "description": "Criar botão",
+          "id": "463adcb8-a369-40b7-9ae0-242498ad84e7"
+        },
+        {
+          "name": "Freela de front end",
+          "cost": "200",
+          "description": "Criar botão",
+          "id": "49ee71c9-d805-487a-9cc9-535756a53f5c"
         }
       ],
       "id": 2
